@@ -58,8 +58,18 @@
         <mxCell id="oli-FpKKpLU5B53u3gLG-8" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;商品发布&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="280" width="40" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="oli-FpKKpLU5B53u3gLG-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="548" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-9" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;交易管理&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="528" y="280" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oli-FpKKpLU5B53u3gLG-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-10" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;用户管理&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="478" y="280" width="40" height="140" as="geometry" />
@@ -72,11 +82,21 @@
         <mxCell id="oli-FpKKpLU5B53u3gLG-11" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;通知公告&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="40" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="oli-FpKKpLU5B53u3gLG-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="598" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-12" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;信息管理&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="280" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-14" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;信息统计&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="628" y="280" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oli-FpKKpLU5B53u3gLG-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="448" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-23" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;全局管理&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="428" y="280" width="40" height="140" as="geometry" />
