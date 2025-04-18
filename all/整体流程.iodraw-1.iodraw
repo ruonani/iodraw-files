@@ -34,7 +34,7 @@
         <mxCell id="oli-FpKKpLU5B53u3gLG-10" value="会员资料修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="250" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oli-FpKKpLU5B53u3gLG-11" value="会&lt;div&gt;员&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;&lt;div&gt;布&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oli-FpKKpLU5B53u3gLG-11" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;通知公告&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-12" value="管理员资料修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="oli-FpKKpLU5B53u3gLG-22" value="公&lt;div&gt;用&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="480" width="30" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oli-FpKKpLU5B53u3gLG-23" value="维护管理员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oli-FpKKpLU5B53u3gLG-23" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;全局管理&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="250" width="40" height="140" as="geometry" />
         </mxCell>
       </root>
