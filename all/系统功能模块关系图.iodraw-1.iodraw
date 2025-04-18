@@ -94,14 +94,8 @@
             <mxPoint x="520" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oli-FpKKpLU5B53u3gLG-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="oli-FpKKpLU5B53u3gLG-36">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="240" as="sourcePoint" />
-            <mxPoint x="320" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="190" width="50" height="100" as="geometry" />
+          <mxGeometry x="132" y="150" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
