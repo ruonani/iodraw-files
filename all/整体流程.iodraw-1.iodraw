@@ -47,25 +47,25 @@
           <mxGeometry x="520" y="250" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-15" value="发布网站新闻信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="30" height="140" as="geometry" />
+          <mxGeometry x="480" y="480" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-16" value="公&lt;div&gt;用&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="250" width="30" height="140" as="geometry" />
+          <mxGeometry x="520" y="480" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-18" value="公&lt;div&gt;用&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="250" width="30" height="140" as="geometry" />
+          <mxGeometry x="560" y="480" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-19" value="公&lt;div&gt;用&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="250" width="30" height="140" as="geometry" />
+          <mxGeometry x="600" y="480" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-20" value="公&lt;div&gt;用&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="250" width="30" height="140" as="geometry" />
+          <mxGeometry x="640" y="480" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-21" value="公&lt;div&gt;用&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="250" width="30" height="140" as="geometry" />
+          <mxGeometry x="680" y="480" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-22" value="公&lt;div&gt;用&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="250" width="30" height="140" as="geometry" />
+          <mxGeometry x="720" y="480" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-23" value="维护管理员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="30" height="140" as="geometry" />
