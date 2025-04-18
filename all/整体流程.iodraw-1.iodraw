@@ -29,10 +29,10 @@
           <mxGeometry x="100" y="250" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-9" value="添加管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="250" width="40" height="140" as="geometry" />
+          <mxGeometry x="595" y="250" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-10" value="会员资料修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399" y="250" width="40" height="140" as="geometry" />
+          <mxGeometry x="530" y="250" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-11" value="会&lt;div&gt;员&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;&lt;div&gt;布&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="40" height="140" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="660" y="250" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-13" value="会&lt;div&gt;员&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="250" width="40" height="140" as="geometry" />
+          <mxGeometry x="370" y="460" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-14" value="网站基本信息设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="250" width="40" height="140" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="720" y="480" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-23" value="维护管理员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="250" width="40" height="140" as="geometry" />
+          <mxGeometry x="470" y="250" width="40" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
