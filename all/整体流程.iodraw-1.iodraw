@@ -8,7 +8,7 @@
           <mxGeometry x="346" y="50" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-2" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;二手交易平台后台&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="150" width="230" height="60" as="geometry" />
+          <mxGeometry x="510" y="150" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-3" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;二手交易平台前端&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="230" height="60" as="geometry" />
@@ -38,13 +38,13 @@
           <mxGeometry x="260" y="250" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-12" value="管理员资料修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="250" width="40" height="140" as="geometry" />
+          <mxGeometry x="620" y="250" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-13" value="会&lt;div&gt;员&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="460" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-14" value="网站基本信息设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="250" width="40" height="140" as="geometry" />
+          <mxGeometry x="670" y="250" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-15" value="发布网站新闻信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="30" height="140" as="geometry" />
