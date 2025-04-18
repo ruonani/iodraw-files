@@ -22,8 +22,8 @@
         <mxCell id="oli-FpKKpLU5B53u3gLG-6" value="会员登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oli-FpKKpLU5B53u3gLG-7" value="公&lt;div&gt;用&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="390" width="40" height="140" as="geometry" />
+        <mxCell id="oli-FpKKpLU5B53u3gLG-7" value="会员找回密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-8" value="注册会员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="40" height="140" as="geometry" />
