@@ -7,6 +7,11 @@
         <mxCell id="CyODsW8gMl-cH8JUEPhE-1" value="内生安全设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="70" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="CyODsW8gMl-cH8JUEPhE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CyODsW8gMl-cH8JUEPhE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170.20000000000005" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CyODsW8gMl-cH8JUEPhE-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="60" height="130" as="geometry" />
         </mxCell>
@@ -18,7 +23,7 @@
         </mxCell>
         <mxCell id="CyODsW8gMl-cH8JUEPhE-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="180" as="sourcePoint" />
+            <mxPoint x="90" y="180" as="sourcePoint" />
             <mxPoint x="680" y="180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="390" y="180" />
@@ -42,6 +47,11 @@
         </mxCell>
         <mxCell id="CyODsW8gMl-cH8JUEPhE-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="250" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CyODsW8gMl-cH8JUEPhE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CyODsW8gMl-cH8JUEPhE-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90.19999999999999" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CyODsW8gMl-cH8JUEPhE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="250" width="60" height="130" as="geometry" />
