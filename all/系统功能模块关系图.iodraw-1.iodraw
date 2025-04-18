@@ -18,7 +18,7 @@
         <mxCell id="oli-FpKKpLU5B53u3gLG-3" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;二手交易平台前端&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="132" y="150" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oli-FpKKpLU5B53u3gLG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-4">
+        <mxCell id="oli-FpKKpLU5B53u3gLG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70.14285714285711" y="240" as="targetPoint" />
           </mxGeometry>
@@ -26,7 +26,7 @@
         <mxCell id="oli-FpKKpLU5B53u3gLG-4" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;商品浏览&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oli-FpKKpLU5B53u3gLG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-5">
+        <mxCell id="oli-FpKKpLU5B53u3gLG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="119.85714285714289" y="240" as="targetPoint" />
           </mxGeometry>
@@ -34,7 +34,7 @@
         <mxCell id="oli-FpKKpLU5B53u3gLG-5" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;商品选购&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oli-FpKKpLU5B53u3gLG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-6">
+        <mxCell id="oli-FpKKpLU5B53u3gLG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="219.8571428571429" y="240" as="targetPoint" />
           </mxGeometry>
@@ -42,10 +42,15 @@
         <mxCell id="oli-FpKKpLU5B53u3gLG-6" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;个人用户管理&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="40" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="oli-FpKKpLU5B53u3gLG-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270.1428571428571" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-7" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;求购信息&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="280" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oli-FpKKpLU5B53u3gLG-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-8">
+        <mxCell id="oli-FpKKpLU5B53u3gLG-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170.1428571428571" y="240" as="targetPoint" />
           </mxGeometry>
@@ -58,6 +63,11 @@
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-10" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;用户管理&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="250" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oli-FpKKpLU5B53u3gLG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.8571428571429" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-11" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;通知公告&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="40" height="140" as="geometry" />
