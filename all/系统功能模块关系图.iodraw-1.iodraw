@@ -129,6 +129,12 @@
             <mxPoint x="660" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oli-FpKKpLU5B53u3gLG-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0.582;entryY=1.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oli-FpKKpLU5B53u3gLG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
