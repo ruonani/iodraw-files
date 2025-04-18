@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.556;exitY=0.976;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="oli-FpKKpLU5B53u3gLG-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="211.8571428571429" y="240" as="targetPoint" />
+            <mxPoint x="221" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-3" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;二手交易平台前端&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -121,6 +121,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="240" as="sourcePoint" />
             <mxPoint x="320" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oli-FpKKpLU5B53u3gLG-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
