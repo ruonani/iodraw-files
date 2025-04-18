@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CyODsW8gMl-cH8JUEPhE-1" value="内生安全设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="70" width="130" height="70" as="geometry" />
+          <mxGeometry x="320" y="70" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CyODsW8gMl-cH8JUEPhE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CyODsW8gMl-cH8JUEPhE-4">
           <mxGeometry relative="1" as="geometry">
