@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-4" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-fareast;mso-font-kerning:&#xa;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;商品浏览&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="280" width="40" height="140" as="geometry" />
+          <mxGeometry x="50" y="280" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oli-FpKKpLU5B53u3gLG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="oli-FpKKpLU5B53u3gLG-5" edge="1">
           <mxGeometry relative="1" as="geometry">
